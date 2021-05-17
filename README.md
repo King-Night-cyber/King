@@ -12,7 +12,6 @@
 * [Technologies](#technologies)
 * [How to Run](#how-to-run)
 * [Project Status](#project-status)
-* [Pics](#pics)
 * [Future Ideas](#future-ideas)
 
 ### Introduction
@@ -39,10 +38,6 @@ NOTE++: if you have any problems with some errors about packets not installed, j
 
 ### Project Status
 The current King version is 0.1.0. The code is supported and updated by [King-Night-cyber](#https://github.com/King-Night-cyber).
-
-### Pics
-<img src="Image1.jpg" width="300" height="200"/> 
-Little code snipped completely written in King
 
 ### Future Ideas
 * In the future, I'd like to rewrite everything with C, since it's definetly faster than Python. I am using it since it's easier and it wont matter how fast it is (for now...)
