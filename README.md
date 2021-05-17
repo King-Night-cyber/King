@@ -1,6 +1,6 @@
 # King 0.1.0
 
-<img src="Logo.jpg" width="800" height="600"/>
+<img src="Logo.png" width="800" height="600"/>
 
 ![](https://img.shields.io/github/languages/top/King-Night-cyber/King)
 ![](https://img.shields.io/github/repo-size/King-Night-cyber/King)
