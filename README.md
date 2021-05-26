@@ -19,7 +19,7 @@ King is a open-source, new and work-in-progress programming language made entire
 
 Its extension is .king and the code is excecuted from the Batch file (for Windows) or from the Shell file (for Linux). If you want to make custom King file and excecute it, all you have to do is to edit this two files with the name of the newly created file.
 
-To find all the commands or more infos about King, they're in the Official [Wiki](https://github.com/King-Night-cyber/King-Programming-Language/wiki)
+[//]: # (To find all the commands or more infos about King, they're in the Official Wiki)
 
 ### Technologies
 The project is made with:
